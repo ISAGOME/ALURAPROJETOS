@@ -21,3 +21,6 @@ p {
 em strong {
     color: #ff000f;
 }
+.itens {
+    font-style: italic;
+}
